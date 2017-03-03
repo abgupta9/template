@@ -16,7 +16,7 @@ module.exports = function(grunt) {
 						// Source Files to concatenate
 						src : [ 'app/**/*.js' ],
 						// Location of the resulting JS file
-						dest : 'dist/<%= pkg.name %>.js'
+						dest : 'dist/assets/scripts/<%= pkg.name %>.js'
 					}
 				},
 
