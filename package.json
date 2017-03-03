@@ -7,9 +7,6 @@
     "test": "test"
   },
   "dependencies": {
-    "grunt-cli": "^1.2.0",
-    "angular": "^1.6.2",
-    "grunt-init": "^0.3.2"
   },
   "devDependencies": {
     "angular": "^1.6.2",
